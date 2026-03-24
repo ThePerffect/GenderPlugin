@@ -1,0 +1,6 @@
+name: Female-Gender-Mod-Plugin
+version: '1.4.3.1'
+main: dbrighthd.wildfiregendermodplugin.GenderModPlugin
+api-version: '1.21'
+authors: [ 'dbrighthd', 'Stigstille', 'winnpixie', 'UnFamousSoul', 'The_Perffect' ]
+folia-supported: true
